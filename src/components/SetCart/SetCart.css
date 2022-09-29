@@ -16,9 +16,9 @@
     margin-bottom: 0;
  }
 .user img{
-    width: 30px;
-    height: 30px;
-    border-radius: 50px;
+    width: 20px;
+    height: 100px;
+    border-radius: 50%;
 }
  .break{
     /* background-color: rgb(204, 247, 247); */
@@ -44,3 +44,19 @@
  .break p:hover{
     background-color: aqua;
  }
+.details{
+   text-align: center;
+}
+.timeShow{
+   padding: 5px 0 5px 15px;
+   border-radius: 8px;
+   font-weight: 600;
+   box-shadow: 5px 5px 5px 5px rgb(216, 206, 206);
+   margin-top: 20px;
+}
+.showTime{
+   padding: 15px ;
+   border-radius: 8px;
+   font-weight: 600;
+   box-shadow: 5px 5px 5px 5px rgb(216, 206, 206);
+}

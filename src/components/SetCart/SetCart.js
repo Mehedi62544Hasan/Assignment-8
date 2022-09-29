@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import user from '../../DSC_0009~2.JPG';
 import './SetCart.css'
 // import img '../../../public/DSC_0009~2.JPG'
 
@@ -11,7 +12,7 @@ const SetCart = (props) => {
     return (
         <div className='container'>
             <div className='user'>
-                 <h1>img</h1>
+                 <img src={user} alt="" />
                 <h3>Mehedi Hasan</h3>
                 <p>Junior Web Developer</p>
                 <p>Rangamati Govt Collage</p>
@@ -33,10 +34,10 @@ const SetCart = (props) => {
                     <p onClick={() =>breakTime(40)}>40m</p>
                 </div>
             </div>
-            <div>
-                <h4>Exercise Details</h4>
-                <h4>Exercise time: {props.times} minit</h4>
-                <h4>Break time: {breaks} minit</h4>
+            <div className='timeShow'>
+                <h4 className='details'>Exercise Details</h4>
+                <h4 className='showTime'>Exercise time: {props.times} minit</h4>
+                <h4 className='showTime'>Break time: {breaks} minit</h4>
              </div>
         </div>
     );

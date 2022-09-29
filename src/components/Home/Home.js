@@ -19,7 +19,7 @@ const handleClick = (props) =>{
 
      return (
         <div className='home'>
-            <div>
+            <div className='cart-container'>
                 <h1 className='h1'>BD-ACTIVE-BOYS</h1>
                 <p>Choose to do it today</p>
                 <div className='cart'>
