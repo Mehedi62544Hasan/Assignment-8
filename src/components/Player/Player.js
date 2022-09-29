@@ -2,6 +2,7 @@ import React from 'react';
 import './Player.css'
 
 const Player = (props) => {
+    console.log(props)
      const {img, name, price, ratings} = props.player;
     return (
         <div className='player'>
@@ -9,7 +10,7 @@ const Player = (props) => {
             <div>
             <h4>{name}</h4>
             <p> {ratings}</p>
-            <p>For Age: 20-25</p>
+            <p>For Age: {}</p>
             <p>Time required: {price}m</p>
             </div>
             <button onClick={() => props.handleClick(props.player)}>Add to list</button>

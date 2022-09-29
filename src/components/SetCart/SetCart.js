@@ -3,6 +3,7 @@ import './SetCart.css'
 // import img '../../../public/DSC_0009~2.JPG'
 
 const SetCart = (props) => {
+    console.log(props)
     return (
         <div>
             <div className='user'>
