@@ -1,3 +1,5 @@
+import { faSwatchbook } from '@fortawesome/free-solid-svg-icons';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React, { useEffect, useState } from 'react';
 import Player from '../Player/Player';
 import SetCart from '../SetCart/SetCart';
@@ -20,7 +22,10 @@ const handleClick = (props) =>{
      return (
         <div className='home'>
             <div className='cart-container'>
+               <div className='header'>
+               <FontAwesomeIcon className='FontAwesomeIcon' icon={faSwatchbook}></FontAwesomeIcon>
                 <h1 className='h1'>BD-ACTIVE-BOYS</h1>
+               </div>
                 <p>Choose to do it today</p>
                 <div className='cart'>
                   {
