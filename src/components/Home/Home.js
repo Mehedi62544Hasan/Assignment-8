@@ -2,6 +2,7 @@ import { faSwatchbook } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React, { useEffect, useState } from 'react';
 import Player from '../Player/Player';
+import Question from '../Question/Question';
 import SetCart from '../SetCart/SetCart';
 import './Home.css'
  
@@ -40,6 +41,7 @@ const handleClick = (props) =>{
             <div className='cart-list'>
                 <SetCart times = {times}></SetCart>
             </div>
+            <Question></Question>
         </div>
     );
 };

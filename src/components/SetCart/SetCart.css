@@ -58,3 +58,17 @@
    font-weight: 600;
    box-shadow: 5px 5px 5px 5px rgb(216, 206, 206);
 }
+.activity{
+   border: none;
+   background-color: rgb(246, 210, 143);
+   padding: 15px;
+   width: 100%;
+   font-weight: 700;
+   font-size: medium;
+   color: blue;
+   border-radius: 10px;
+   margin-bottom: 15px;
+}
+.activity:hover{
+   background-color: aqua;
+}

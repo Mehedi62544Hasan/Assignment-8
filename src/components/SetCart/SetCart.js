@@ -38,8 +38,9 @@ const SetCart = (props) => {
                 <h4 className='details'>Exercise Details</h4>
                 <h4 className='showTime'>Exercise time: {props.times} minit</h4>
                 <h4 className='showTime'>Break time: {breaks} minit</h4>
+                <button className='activity'>Activity Completed</button>
              </div>
-        </div>
+         </div>
     );
 };
 
