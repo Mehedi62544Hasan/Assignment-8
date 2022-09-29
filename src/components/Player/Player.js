@@ -10,7 +10,7 @@ const Player = (props) => {
             <div>
             <h4>{name}</h4>
             <p> {ratings}</p>
-            <p>For Age: {}</p>
+            <p>For Age: 20-25</p>
             <p>Time required: {price}m</p>
             </div>
             <button onClick={() => props.handleClick(props.player)}>Add to list</button>

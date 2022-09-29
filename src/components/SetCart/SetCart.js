@@ -2,8 +2,7 @@ import React, { useState } from 'react';
 import user from '../../DSC_0009~2.JPG';
 import { addToDb } from '../../utilities/fakedb';
 import './SetCart.css'
-// import img '../../../public/DSC_0009~2.JPG'
-
+ 
 const SetCart = (props) => {
     const [breaks, setBreaks] = useState(0)
     console.log(props)
