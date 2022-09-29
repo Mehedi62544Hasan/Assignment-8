@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import user from '../../DSC_0009~2.JPG';
+import { addToDb } from '../../utilities/fakedb';
 import './SetCart.css'
 // import img '../../../public/DSC_0009~2.JPG'
 
@@ -8,6 +9,7 @@ const SetCart = (props) => {
     console.log(props)
     const breakTime =  (props) =>{
         setBreaks(props)
+        addToDb(props)
     }
     return (
         <div className='container'>
