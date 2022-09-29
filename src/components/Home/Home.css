@@ -1,0 +1,18 @@
+.home{
+     display: grid;
+    grid-template-columns: 3fr 1fr;
+    margin: 0 40px;
+ }
+.cart{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+    margin: 0 25px;
+}
+.cart-list img{
+    width: 150px;
+    height: 150px;
+}
+.h1{
+    color: blue;
+}

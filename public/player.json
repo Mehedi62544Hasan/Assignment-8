@@ -1,0 +1,80 @@
+[
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "category": "Men's Sneaker",
+    "name": "FOOTBALL",
+    "seller": "Addidas",
+    "price": 90,
+    "stock": 20,
+    "ratings": "Football is a combination of sacrificce, dedication, hard work and camaraderie off the field.",
+    "ratingsCount": 3725,
+    "img": "https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg?q=60",
+    "shipping": 1,
+    "quantity": 0
+  },
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "category": "Men's Sneaker",
+    "name": "CRICKET",
+    "seller": "Addidas",
+    "price": 120,
+    "stock": 20,
+    "ratings": "A gun is no more dangerous than a cricket bat in the hands of a madman.",
+    "ratingsCount": 3725,
+    "img": "https://www.sportsunfold.com/wp-content/uploads/2022/06/cricket-1642491052.jpg",
+    "shipping": 1,
+    "quantity": 0
+  },
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "category": "Men's Sneaker",
+    "name": "GUITAR",
+    "seller": "Addidas",
+    "price": 30,
+    "stock": 20,
+    "ratings": "A guitar is more than just a sound box… it is part of your soul.",
+    "ratingsCount": 3725,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlf2DZHlm4zqpsXYZY87ezZ0QlGMXpVfuXdlKODHGH&s",
+    "shipping": 1,
+    "quantity": 0
+  },
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "category": "Men's Sneaker",
+    "name": "EXERCISES",
+    "seller": "Addidas",
+    "price": 60,
+    "stock": 20,
+    "ratings": "exercise is for the quality of life I enjoy.",
+    "ratingsCount": 3725,
+    "img": "https://www.helpguide.org/wp-content/uploads/resistance-band-woman-doing-leg-workout-768.jpg",
+    "shipping": 1,
+    "quantity": 0
+  },
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "category": "Men's Sneaker",
+    "name": "STUDAY",
+    "seller": "Addidas",
+    "price": 60,
+    "stock": 20,
+    "ratings": " a book which people praise and don't read. ... Sleep is good, he said, and books are better.",
+    "ratingsCount": 3725,
+    "img": "https://image.shutterstock.com/image-photo/young-couple-books-notes-cafe-260nw-1034927200.jpg",
+    "shipping": 1,
+    "quantity": 0
+  },
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "category": "Men's Sneaker",
+    "name": "SWIMMING",
+    "seller": "SWIMMING",
+    "price": 40,
+    "stock": 20,
+    "ratings": "Believe in yourself, not only in swimming, but in life itself. You always have to have fun.",
+    "ratingsCount": 3725,
+    "img": "https://news.cgtn.com/news/2020-09-28/China-s-Wang-Jianjiahe-sets-new-Asia-record-in-1-500-meter-freestyle--U9T4EquuGI/img/662f0978f66041c59721d917252c9a79/662f0978f66041c59721d917252c9a79.png",
+    "shipping": 1,
+    "quantity": 0
+  }
+]
