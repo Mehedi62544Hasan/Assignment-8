@@ -17,14 +17,6 @@ const SetCart = (props) => {
                 <p>Junior Web Developer</p>
                 <p>Rangamati Govt Collage</p>
             </div>
-            <div>
-                <div>
-                    {/* <h1>55kg</h1>
-                    <p>Weight</p> */}
-                </div>
-                <div></div>
-                <div></div>
-            </div>
             <div className='break'>
                 <h4>Add a Break</h4>
                 <div>
